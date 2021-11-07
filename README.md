@@ -6,6 +6,12 @@ syntax : 1m-block <site list file>
 sample : 1m-block top-1m.txt
 ```
 
+# sqlite3
+you need to install sqlite3
+```
+sudo apt-get install sqlite3 libsqlite3-dev
+```
+
 # iptable setting
 ```
 sudo iptables -F
