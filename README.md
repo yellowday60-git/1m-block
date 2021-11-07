@@ -11,6 +11,7 @@ sample : 1m-block top-1m.txt
 sudo iptables -F
 sudo iptables -A OUTPUT -j NFQUEUE
 sudo iptables -A INPUT -j NFQUEUE
+```
 
 # test and capture
 ![image](https://user-images.githubusercontent.com/45089989/140652040-415cf380-daf5-49cb-9ee9-34e3df1f7343.png)
