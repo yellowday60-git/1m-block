@@ -25,3 +25,5 @@ sudo iptables -A INPUT -j NFQUEUE
 I added test.gilgil.net to the list
 
 ![image](https://user-images.githubusercontent.com/45089989/140652066-1cf7f800-8f96-4b14-b33f-1e729ed1412a.png)
+
+![image](https://user-images.githubusercontent.com/45089989/162229473-4aef51b2-ea39-45cd-b8a2-d854c6a8ce6d.png)
